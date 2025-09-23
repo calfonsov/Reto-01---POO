@@ -98,7 +98,7 @@ print(Sum_Par())
 
 5. Escribir una función que reciba una lista de cadenas y retorne únicamente aquellos elementos que tengan los mismos caracteres. por ejemplo entrada: ["amor", "roma", "perro"], salida["amor", "roma"]\
 
-Aquí se reciben las palabras y se reservan dentro de una lista, se genera una lista vacia donde ira los resultados. Luego mediante un ciclo se recorre cada palabra y en la variable base se guarda la lista ordenada de cada letra de la primera palabra para realizar la comparación, luego se recorre cada palabra para compararla con la base y guardarla en una nueva lista de grupo si es anagrama; al finalizar ese ciclo y si la lista tiene más de un elemento se guarda el grupo de anagramas en la lista de resultado final; así mismo se repite el ciclo para comparar todas las palabras entre ellas e imprimir los grupos de anagramas que se encuentren.\
+Aquí se reciben las palabras y se reservan dentro de una lista, se genera una lista vacia donde ira los resultados. Luego mediante un ciclo se recorre cada palabra y en la variable base se guarda la lista ordenada de cada letra de la primera palabra para realizar la comparación, luego se recorre cada palabra para compararla con la base y guardarla en una nueva lista de grupo si es anagrama; al finalizar ese ciclo y si la lista tiene más de un elemento se guarda el grupo de anagramas en la lista de resultado final; así mismo se repite el ciclo para comparar todas las palabras entre ellas e imprimir los grupos de anagramas que se encuentren.  
 
 ```python
 def Anagrama():
