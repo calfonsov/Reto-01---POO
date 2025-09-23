@@ -1,7 +1,7 @@
 # Reto-01---POO
-Desarrollo de los ejericios del reto 01:\
+Desarrollo de los ejericios del reto 01:  
 
-Pd: Cabe recalcar que el desarrollo de la asignatura "Programación para computadores" la vi toda en Python, por ende tengo buenas bases y conocimientos respecto a este lenguaje. Esto justificando el uso de algunas funciones dentro del desarrollo de mis ejercicios.\
+Pd: Cabe recalcar que el desarrollo de la asignatura "Programación para computadores" la vi toda en Python, por ende tengo buenas bases y conocimientos respecto a este lenguaje. Esto justificando el uso de algunas funciones dentro del desarrollo de mis ejercicios.  
   
 1. Cree una función que realice operaciones básicas (suma, resta, multiplicación, división) entre dos números, según la elección del usuario, la forma de entrada de la función serán los dos operandos y el carácter usado para la operación. entrada: (1,2,"+") , salida (3).  
 
